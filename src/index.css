@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: abc;
+    src: url(./assets/RidgewaySans.woff2);
+}
+@font-face {
+    font-family: abc1;
+    src: url(./assets/GalaxieCopernicus-Book.woff2);
+}
+@font-face {
+    font-family: abc2;
+    src: url(./assets/GalaxieCopernicus-BookItalic.woff2);
+}
